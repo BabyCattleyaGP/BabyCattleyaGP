@@ -2,8 +2,6 @@
 
 <img align='right' src="https://i.ibb.co/FYBVKGy/Maker.png" alt="Avatar" border="0" width="200"> <p><em> A Lifelong learner, friendly and open-minded person, enjoyed learning new things.</em></p>
 
-<p>I'm currently pursuing career as Flutter Engineer at KulinaId, one of food marketplace in Indonesia. </p>
-
 <h2>Languages and tools</h2>
 
 <code><img height="30" src="https://www.vectorlogo.zone/logos/dartlang/dartlang-ar21.svg"></code>

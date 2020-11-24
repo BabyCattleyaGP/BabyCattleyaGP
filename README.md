@@ -5,6 +5,8 @@
 <h2>Familiar languages and frameworks</h2>
 
 <code><img height="30" src="https://www.vectorlogo.zone/logos/dartlang/dartlang-ar21.svg"></code>
+<code><img height="30" src="https://www.vectorlogo.zone/logos/kotlinlang/kotlinlang-ar21.svg"></code>
+<code><img height="30" src="https://www.vectorlogo.zone/logos/swift/swift-horizontal.svg"></code>
 <code><img height="30" src="https://www.vectorlogo.zone/logos/ruby/ruby-ar21.svg"></code>
 <code><img height="30" src="https://www.vectorlogo.zone/logos/golang/golang-horizontal.svg"></code>
 <code><img height="30" src="https://www.vectorlogo.zone/logos/python/python-ar21.svg"></code>

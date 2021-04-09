@@ -1,6 +1,6 @@
 <h1> Hi there, I'm Baby! </h1> 
 
-<img align='right' src="https://i.ibb.co/FYBVKGy/Maker.png" alt="Avatar" border="0" width="200"> <p><em> A Lifelong learner, friendly and open-minded person, enjoyed learning new things.</em></p>
+<img align='right' src="https://i.ibb.co/FYBVKGy/Maker.png" alt="Avatar" border="0" width="200"> <p><em> A Lifelong learner, enjoyed learning new things.</em></p>
 
 <h2>Familiar languages and frameworks</h2>
 

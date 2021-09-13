@@ -26,4 +26,4 @@ I'm a software engineer. <em> A Lifelong learner, and enjoyed learning new thing
 
 ## GitHub Stats
 
-![Baby's GitHub stats](https://github-readme-stats.vercel.app/api?username=BabyCattleyaGP&count_private=true&hide=prs,issues,contribs&border_radius=20&show_icons=true&text_color=2bbc8a&icon_color=000000&title_color=000000)
+![Baby's GitHub stats](https://github-readme-stats.vercel.app/api?username=BabyCattleyaGP&count_private=true&hide=prs,issues,contribs&border_radius=20&show_icons=true&text_color=000000&icon_color=2bbc8a&title_color=2bbc8a)

@@ -23,7 +23,3 @@ I'm a software engineer. <em> A Lifelong learner, and enjoyed learning new thing
 ![](https://img.shields.io/badge/Tools-Postman-informational?style=flat&logo=postman&logoColor=white&color=2bbc8a)
 ![](https://img.shields.io/badge/Tools-Google_Big_Query-informational?style=flat&logoColor=white&color=2bbc8a)
 ![](https://img.shields.io/badge/Tools-Firebase-informational?style=flat&logo=firebase&logoColor=white&color=2bbc8a)
-
-## GitHub Stats
-
-![Baby's GitHub stats](https://github-readme-stats.vercel.app/api?username=BabyCattleyaGP&count_private=true&hide=prs,issues,contribs&border_radius=20&show_icons=true&text_color=000000&icon_color=2bbc8a&title_color=2bbc8a)

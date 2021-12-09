@@ -4,6 +4,8 @@
 
 I'm a software engineer. <em> A Lifelong learner, and enjoyed learning new things.</em>
 
+Gitlab: https://gitlab.com/baby.permatagama
+
 
 ## 🔧 Tech Stack & Tools
 ![](https://img.shields.io/badge/OS-Macos-informational?style=flat&logo=apple&logoColor=white&color=2bbc8a)
